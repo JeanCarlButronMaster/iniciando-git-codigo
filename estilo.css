@@ -3,6 +3,11 @@
     margin: 0;
 }
 
+.name{
+    font-family: 'impact';
+    font-size: 300px;
+}
+
 table {
     margin: auto;
     background-color: rgb(31, 22, 31);
